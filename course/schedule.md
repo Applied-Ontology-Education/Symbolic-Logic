@@ -15,9 +15,9 @@ All homework assignments and exams are available through Microsoft Forms through
 | **Week 7** | **Oct. 5–11** | Direct Derivation; Conditional Derivation; Complicated Conditional Inference | Hardegree 5.7–5.9 | **HW #6** |
 | **Week 8** | **Oct. 12–18** | Fall Break Oct. 12–13; Indirect Derivations | Hardegree 5.10–5.11 | **HW #7** |
 | **Week 9** | **Oct. 19–25** | Indirect Derivations II; Review of Propositional Proofs | Hardegree 5.12–5.14 | **Exam 2** |
-| **Week 10** | **Oct. 26–Nov. 1** | Quantifiers and Quantificational Logic; Translating “All”; Limitations of Translation | Hardegree 6.1–6.8 | **HW #8** |
-| **Week 11** | **Nov. 2–8** | Translating “Some”; Quantifiers with Connectives | Hardegree 6.9–6.17 | **HW #9** |
-| **Week 12** | **Nov. 9–15** | Universal Elimination; Existential Introduction; Universal Derivation; Existential Elimination | Hardegree 8.1–8.12 | — |
-| **Week 13** | **Nov. 16–22** | Universal Derivation and Existential Elimination Continued; Quantificational Logic and Identity | Hardegree 8.1–8.12; additional materials as assigned | **HW #10** |
-| **Week 14** | **Nov. 23–29** | Quantificational Logic and Parthood; Thanksgiving Break Nov. 25–28 | Additional materials as assigned | **HW #11** |
-| **Week 15** | **Nov. 30–Dec. 6** | Comprehensive Review: Propositional Logic, Proof Theory, Quantificational Logic, Identity, and Parthood | Review previous readings and course materials | **Exam 3** |
+| **Week 10** | **Oct. 26–Nov. 1** | Quantifiers and Quantificational Logic; Translating “All”; Limitations of Translation | Hardegree 6.1–6.8; Bennett 6.1-6.4 | **HW #8** |
+| **Week 11** | **Nov. 2–8** | Translating “Some”; Quantifiers with Connectives | Hardegree 6.9–6.17; Bennett 7.3, 8.2 | **HW #9** |
+| **Week 12** | **Nov. 9–15** | Universal Elimination; Existential Introduction; Universal Derivation; Existential Elimination | Hardegree 8.1–8.6 | — |
+| **Week 13** | **Nov. 16–22** | Universal Derivation and Existential Elimination Continued; Quantificational Logic and Identity | Hardegree 8.6–8.12; Bennett 8.3-8.4 | **HW #10** |
+| **Week 14** | **Nov. 23–29** | Quantificational Logic; Thanksgiving Break Nov. 25–28 | Review | **HW #11** |
+| **Week 15** | **Nov. 30–Dec. 6** | Comprehensive Review: Propositional Logic, Proof Theory, Quantificational Logic, Identity, and Parthood | Review | **Exam 3** |
